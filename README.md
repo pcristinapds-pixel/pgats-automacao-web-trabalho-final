@@ -1,6 +1,6 @@
 # Trabalho Final - Automação de Testes na Camada de Interface Web
 
-Projeto de automação E2E com [Cypress](https://www.cypress.io/) na aplicação [Automation Exercise](https://automationexercise.com), desenvolvido como trabalho de conclusão da disciplina PGATS3.
+Projeto de automação com [Cypress](https://www.cypress.io/) desenvolvido como trabalho de conclusão da disciplina Automação de Testes na Camada de Interface (web).
 
 ## Casos de teste automatizados
 
